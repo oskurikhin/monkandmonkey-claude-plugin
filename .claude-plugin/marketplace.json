@@ -1,0 +1,17 @@
+{
+  "name": "monkandmonkey",
+  "owner": {
+    "name": "Oleksii Skurikhin",
+    "email": "support@monkandmonkey.org"
+  },
+  "metadata": {
+    "description": "The MonkAndMonkey plugin for Claude Code: tasks, project boards, habits, goals, journals and time tracking."
+  },
+  "plugins": [
+    {
+      "name": "monkandmonkey",
+      "source": "./",
+      "description": "Plan tasks and shared project boards, track habits, goals, journals and time, and get actionable productivity briefs from your MonkAndMonkey account."
+    }
+  ]
+}
