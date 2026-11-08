@@ -1,0 +1,22 @@
+{
+  "name": "monkandmonkey",
+  "displayName": "MonkAndMonkey",
+  "version": "1.0.0",
+  "description": "Plan tasks and shared project boards, track habits, goals, journals and time, and get actionable productivity briefs from your MonkAndMonkey account.",
+  "author": {
+    "name": "Oleksii Skurikhin",
+    "email": "support@monkandmonkey.org",
+    "url": "https://monkandmonkey.org"
+  },
+  "homepage": "https://monkandmonkey.org/claude",
+  "repository": "https://github.com/oskurikhin/monkandmonkey-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "productivity",
+    "tasks",
+    "habits",
+    "journal",
+    "time-tracking",
+    "project-boards"
+  ]
+}
