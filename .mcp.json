@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "monkandmonkey": {
+      "type": "http",
+      "url": "https://monkandmonkey.org/mcp"
+    }
+  }
+}
