@@ -11,6 +11,7 @@
   "homepage": "https://monkandmonkey.org/claude",
   "repository": "https://github.com/oskurikhin/monkandmonkey-claude-plugin",
   "license": "MIT",
+  "privacyPolicyUrl": "https://monkandmonkey.org/privacy",
   "keywords": [
     "productivity",
     "tasks",
